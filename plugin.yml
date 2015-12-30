@@ -1,0 +1,4 @@
+name: Warwick Kingdom Lobby
+main: com.odin.warick.lobby.Main
+version: 0.01
+commands:
